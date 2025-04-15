@@ -5,4 +5,5 @@ scikit-learn
 -e . #This is use for installing local packages(setup.py file).
 ipykernel
 seaborn
-Flask
+FastAPI
+uvicorn
