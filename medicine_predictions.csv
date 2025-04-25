@@ -1,3 +1,5 @@
-Name,Age,Gender,Symptom,Causes,Diseases,Predicted Medicine,Cause,Disease
-Amit Verma,26,Male,Headache,,,Iron Supplements,Stress,Muscle Overuse
-Amit Verma,26,Male,Headache,,,Iron Supplements,Stress,Muscle Overuse
+Name,Age,Gender,Symptom,Predicted Medicine,Cause,Disease
+Male,Headache,,,Iron Supplements,Stress,Muscle Overuse
+Male,Headache,,,Iron Supplements,Stress,Muscle Overuse
+Monish,24,Male,Headache,Isolation,Food Poisoning,Indigestion
+Devil,25,Male,Headache,on   Antihistamine,Pollution,Migraine
