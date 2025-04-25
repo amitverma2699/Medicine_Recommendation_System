@@ -28,8 +28,7 @@ GitHub Repository: [Medicine_Recommendation_System](https://github.com/amitverma
 
 1. Clone the repository:
    ```
-   git clone https://github.com/amitverma2699/Personalized_Healthcare_System.git
-   cd Personalized_Healthcare_System
+   git clone [https://github.com/amitverma2699/Medicine_Recommendation_System.git]
 
 ## Web app 
 
