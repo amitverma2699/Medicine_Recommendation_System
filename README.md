@@ -30,3 +30,9 @@ GitHub Repository: [Medicine_Recommendation_System](https://github.com/amitverma
    ```
    git clone https://github.com/amitverma2699/Personalized_Healthcare_System.git
    cd Personalized_Healthcare_System
+
+## Web app 
+
+<p align="center">
+  <img src="images/Output.png" alt="Healthcare System" width="600"/>
+</p>
