@@ -1,6 +1,6 @@
 # Medicine Recommendation System
 
-A data-driven solution to revolutionize healthcare by offering personalized diagnostics, treatment recommendations, and predictive health analytics.
+A data-driven solution to revolutionize healthcare by predicting diseases from symptoms and recommending personalized treatments using advanced machine learning models.
 
 ## 🔬 Project Overview
 
