@@ -33,6 +33,4 @@ GitHub Repository: [Medicine_Recommendation_System](https://github.com/amitverma
 
 ## Web app 
 
-<p align="center">
-  <img src="images/Output.png" alt="Healthcare System" width="600"/>
-</p>
+![Streamlit Web App](images/Output.png)
