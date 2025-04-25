@@ -33,4 +33,4 @@ GitHub Repository: [Medicine_Recommendation_System](https://github.com/amitverma
 
 ## Web app 
 
-![Streamlit Web App](images/Output.png)
+![alt text](https://github.com/amitverma2699/Medicine_Recommendation_System/blob/main/images/Output.png)
