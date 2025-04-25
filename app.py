@@ -39,7 +39,7 @@ def save_result_to_csv(details, filename="medicine_predictions.csv"):
     new_entry = pd.DataFrame([details])
     if os.path.exists(filename):
         existing = pd.read_csv(filename)
-        combined = pd.concat([existing, new_entry], ignore_index=True)
+        combined = pd.concat([existing, new_entry], ignore_index=True,)
     else:
         combined = new_entry
     combined.to_csv(filename, index=False)
@@ -50,9 +50,12 @@ def main():
     st.markdown("Predict the right **medicine** based on symptoms, causes, and diagnosis.")
 
     with st.form("prediction_form"):
-        col1, col2 = st.columns(2)
-        gender = col1.selectbox("Select Gender", gender_list)
-        symptom = col2.selectbox("Select Symptom", symptom_list)
+        name=st.text_input("Enter Patient Name")
+
+        col1, col2, col3 = st.columns(3)
+        age= col1.number_input("Enter Age", min_value=0, max_value=120, value=30, step=1)
+        gender = col2.selectbox("Select Gender", gender_list)
+        symptom = col3.selectbox("Select Symptom", symptom_list)
 
         cause = st.selectbox("Select Cause", cause_list)
         disease = st.selectbox("Select Disease", disease_list)
@@ -60,7 +63,7 @@ def main():
         submit = st.form_submit_button("Predict Medicine")
 
     if submit:
-        encoded_input = encode_inputs(gender, symptom, cause, disease,)
+        encoded_input = encode_inputs(gender, symptom, cause, disease)
         
         encoded_input = np.array(encoded_input).reshape(1, -1)
         prediction = model.predict(encoded_input)
@@ -70,6 +73,8 @@ def main():
         st.success(f"🧾 **Predicted Medicine**: `{prediction_medicine}`")
 
         patient_data = {
+            "Name": name,
+            "Age": age,
             "Gender": gender,
             "Symptom": symptom,
             "Cause": cause,
