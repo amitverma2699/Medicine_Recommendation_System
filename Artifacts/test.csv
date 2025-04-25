@@ -1,0 +1,62 @@
+Gender,Symptom,Causes,Disease,Medicine
+Male,Shortness of Breath,Obesity,Sleep Apnea,CPAP Machine
+Male,Fever,Infection,Pneumonia,Antibiotics
+Female,Anxiety,Stress,Panic Disorder,Cognitive Therapy
+Male,Fever,Infection,Pneumonia,Antibiotics
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Female,Sore Throat,Bacterial Infection ,Strep Throat     ,Penicillin
+Female,Cough,COVID-19 Exposure,COVID-19,Isolation
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Male,Chest Pain,Heart Disease,Coronary Artery,Nitroglycerin
+Female,Back Pain,Sciatica,Herniated Disc,Pain Relievers
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Female,Fatigue,Hypothyroidism,Thyroid Disorder,Levothyroxine
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Abdominal Pain,vereating            ,Indigestion,Antacids
+Female,Itching,Allergies,Allergic Reacti,on   Antihistamine
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Male,Muscle Pain,Overexertion,Muscle Strain,Rest
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Back Pain,Sciatica,Herniated Disc,Pain Relievers
+Male,Abdominal Pain,Overeating,Indigestion,Antacids
+Female,Nausea,Menstrual Cycle,Menstrual Cramps,Pain Relievers
+Female,Headache,Eye Strain,Vision Fatigue,Rest
+Male,Muscle Pain,Overexertion,Muscle Strain,Rest
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Female,Headache,Eye Strain,Vision Fatigue,Rest
+Male,Muscle Pain,Overexertion,Muscle Strain,Rest
+Male,Dizziness,Dehydration         ,Heat Exhaustion Hydr,ation
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Female,Cough,tCOVID-19 exposure,COVID-19,Isolation
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Female,Headache,Tension,Tension Headache,Relaxation
+Male,Fever,Infection,Pneumonia,Antibiotics
+Female,Fatigue,Depression,Major Depressive,Sertraline
+Male,Fever,Infection,Pneumonia,Antibiotics
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Female,Joint Pain,Rheumatoid Arthritis,s  Arthritis,NSAIDs
+Male,Fatigue,Anemia              ,Iron Deficiency ,Iron Supplements
+Male,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Fluids
+Male,Fever,Infection,Pneumonia,Antibiotics
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Male,Chest Pain,Heart Disease,Coronary Artery Disease,Nitroglycerin
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Fluids
+Male,Shortness of Breath,Obesity,Sleep Apnea,CPAP Machine
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Fluids
+Male,Dizziness,Dehydration,Heat Exhaustion,Hydration
+Female,Sore Throat,Bacterial Infection,Strep Throat,Penicillin
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Female,Back Pain,Sciatica,Herniated Disc,Pain Relievers
+Female,Nausea,Menstrual Cycle,Menstrual Cramps,Pain Relievers
+Female,Back Pain,Sciatica,Herniated Disc,Pain Relievers
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Female,Fatigue,Depression,Major Depressive Disorder,Sertraline
+Male,Shortness of Breath,Obesity             ,Sleep Apnea     ,CPAP Machine
+Male,Back Pain,Herniated Disc,Sciatica,Pain Relievers
+Female,Cough,COVID-19 Exposure,COVID-19,Isolation
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Back Pain,Sciatica,Herniated Disc,Pain Relievers

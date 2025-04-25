@@ -1,0 +1,181 @@
+Gender,Symptom,Causes,Disease,Medicine
+Male,Fever,Viral Infection,Influenza,Acetaminophen
+Female,Skin Rash,Allergies,Dermatitis,Topical Steroids
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Fluids
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Male,Headache,Migraine Triggers,Migraine,Beta-blockers
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Male,Abdominal Pain,Overeating,Indigestion,Antacids
+Male,Chest Pain,Heart Disease,Coronary ArteryDisease,Nitroglycerin
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Male,Fatigue,Anemia,Iron Deficiency,Iron Supplements
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Female,Joint Pain,Rheumatoid Arthritis ,Arthritis     ,NSAIDs
+Male,Fever,Infection,Pneumonia,Antibiotics
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Male,Abdominal Pain,Poor Diet,Indigestion,Antacids
+Male,Muscle Pain,Overexertion,Muscle Strain,Rest
+Female,Cough,COVID-19 exposure,COVID-19,Isolation
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Male,Fatigue,Anemia,Iron Deficiency,Iron Supplements
+Male,Shortness of Breath,Pollution,Asthma,Albuterol Inhaler
+Male,Chest Pain,Heart Disease       ,Coronary Artery Disease   ,Nitroglycerin
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Female,Skin Rash,Allergies,Dermatitis,Topical Steroids
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue,Rest
+Female,Headache,Tension,Tension Headache,Relaxation
+Female,Skin Rash,Allergies,Dermatitis,Topical Steroids
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Female,Cough,COVID-19 exposure,COVID-19,Isolation
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Female,Fatigue,Chronic Fatigue,Chronic Fatigue,Rest
+Male,Headache,Eye Strain,Vision Fatigue,Rest
+Female,Back Pain,Sciatica,Herniated Disc,Pain Relievers
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Male,Headache,Eye Strain,Vision Fatigue,Rest
+Male,Dizziness,Dehydration,Heat Exhaustion,Hydration
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Female,Fatigue,Hypothyroidism,Thyroid Disorder,Levothyroxine
+Female,Skin Rash,Allergies           ,Dermatitis      ,Topical Steroids
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Male,Cough,Viral Infection     ,Respiratory     AntiInfection,virals
+Male,Fever,Viral Infection,Common Cold,Ibuprofen
+Female,Headache,Stress,Migraine,Sumatriptan
+Male,Chest Pain,High Blood Pressure,Hypertension,Amlodipine
+Male,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Sore Throat,Bacterial Infection,Strep Throat,Penicillin
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Fluids
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Male,Headache,Eye Strain,Vision Fatigue,Rest
+Male,Shortness of Breath,Obesity,Sleep Apnea,CPAP Machine
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Dizziness,Dehydration,Heat Exhaustion,Hydration
+Female,Fatigue,Chronic Fatigue,Chronic Fatigue,Rest
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Itching,Allergies           ,Allergic Reaction An,tihistamine
+Female,Joint Pain,Osteoarthritis,Arthritis,Pain Relievers
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Female,Skin Rash,Allergies,Dermatitis,Topical Steroids
+Male,Fatigue,Anemia,Iron Deficiency,Iron Supplements
+Female,Fatigue,Hypothyroidism,Thyroid Disorder,Levothyroxine
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Female,Stomach Pain,Spicy Food,Gastritis,Antacids
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Female, Back Pain,Sciatica,Herniated Disc,Pain Relievers
+Female,Cough,tCOVID-19 exposure,COVID-19,Isolation
+Female,Nausea,Menstrual Cycle,Menstrual Cramps,Pain Relievers
+Male,Fatigue,Anemia,Iron Deficiency,Iron Supplements
+Female,Headache,Tension,Tension Headache,Relaxation
+Male,Itching,Allergies,Allergic Reaction,Antihistamine
+Female,Shortness of Breath,Smoking,Chronic Bronchitis,Inhalers
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Fever,Infection           ,Pheumonia      ,Antibiotics
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Female,Headache,Eye Strain          ,Muscle Strain  ,Eye Exercises
+Female,Fatigue,Chronic Fatigue,Chronic Fatigue,Rest
+Male,Abdominal Pain,Overeating          ,Indigestion     Anta,cids
+Male,Chest Pain,High Blood Pressure,Hypertension,Amlodipine
+Female,Nausea,Menstrual Cycle    ,Menstrual Cramps Pai,n Relievers
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Muscle Pain,Overexertion        ,Muscle Strain  ,Rest
+Male,Muscle Pain,Overexertion,Muscle Strain,Rest
+Female,Joint Pain,Rheumatoid Arthritis, Arthritis,NSAIDs
+Male,Cough,Viral Infection,Respiratory Infection,Antivirals
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Male,Headache,Eye Strain,Vision Fatigue,Rest
+Male,Fever,Infection,Pneumonia,Antibiotics
+Female,Anxiety,Stress,Panic Disorder,Cognitive Therapy
+Male,Shortness of Breath,Pollution,Asthma,Albuterol Inhaler
+Male,Dizziness,Dehydration,Heat Exhaustion,Hydration
+Male,Abdominal Pain,Poor Diet,Indigestion,Antacids
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,Cough,Viral Infection,Respiratory infection,Antivirals
+Female,Itching,Allergies,Allergic Reacti,on   Antihistamine
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Female,Headache,Stress,Migraine,Sumatriptan
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Male,Joint Pain,Autoimmune Response,Rheumatoid Arthritis,NSAIDs
+Female,Fatigue,Chronic FatigueSyndrome,Chronic Fatigue Syndrome,Rest
+Male,Fever,Infection,Pneumonia,Antibiotics
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Fluids
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Female,Nausea,Menstrual Cycle,Menstrual Cramps,Pain Relievers
+Male,Cough,Viral Infection,Respiratory,Antivirals
+Female,Cough,Cold Weather,Common Cold,Honey
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Male,Cough,Viral Infection,RespiratoryInfection,Antivirals
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Muscle Pain,Overexertion,Muscle Strain,Rest
+Female,Fever,Viral Infection,Tonsillitis,Fluids
+Female,Joint Pain,Rheumatoid Arthritis, Arthritis,NSAIDs
+Female,Back Pain,Sciatica,Herniated Disc,Pain Relievers
+Female,Muscle Pain,Overexertion,Muscle Strain,Rest
+Male,Abdominal Pain,Overeating,Indigestion,Antacids
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Muscle Pain,Overexertion,Muscle Strain,Rest
+Female,Anxiety,Stress              ,Panic Disorder  ,Cognitive Therapy
+Male,Headache,Eye Strain,Vision Fatigue,Rest
+Male,Fever,Infection,Pneumonia,Antibiotics
+Female,Cough,COVID-19 exposure,COVID-19,Isolation
+Male,Muscle Pain,Overexertion,Muscle Strain,Rest
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Female,Joint Pain,Osteoarthritis,Arthritis,Pain Relievers
+Female,Abdominal Pain,Overeating,Indigestion,Antacids
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Fluids
+Male,Sore Throat,Bacterial Infection,Strep Throat,Penicillin
+Male,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Cough,COVID-19 Exposure   ,COVID-19      ,Isolation
+Female,Cough, COVID-19 Exposure,COVID-19,Isolation
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Fluids
+Female,Back Pain,Sciatica,Herniated Disc,Pain Relievers
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Female,Sore Throat,Bacterial Infection,Strep Throat,Penicillin
+Male,Chest Pain,Heart Disease,Coronary Artery,Nitroglycerin
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Male,Nausea,Food Poisoning  ,Muscle Strain  ,Rehydration
+Female,Fatigue,Chronic Fatigue,Chronic Fatigue,Rest
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Female,Anxiety,Stress,Panic Disorder,Cognitive Therapy
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Fluids
+Female,Fatigue,Hypothyroidism,Thyroid Disorder,Levothyroxine
+Female,Anxiety,Stress,Panic Disorder,Cognitive Therapy
+Female,Cough,COVID-19 Exposure,COVID-19,Isolation
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Rest
+Male,Fever,Infection,Pneumonia,Antibiotics
+Male,Headache,Eye Strain,Vision Fatigue,Rest
+Male,Headache,Eye Strain,Vision Fatigue,Rest
+Female,Headache,Tension             ,Tension Headache Rel,axation
+Male,Fever,Infection,Pneumonia,Antibiotics
+Female,Fatigue,Hypothyroidism      ,Disease         ,Levothyroxine
+Male,Fever,Infection,Pneumonia,Antibiotics
+Female,Headache,Tension,Tension Headache,Relaxation
+Male,Shortness of Breath,Obesity,Sleep Apnea,CPAP Machine
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Fever,Viral Infection,Common Cold,Ibuprofen
+Female,Nausea,Pregnancy,Morning Sickness,Ginger
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Female,Joint Pain,Rheumatoid Arthritis,is  Arthritis,NSAIDs
