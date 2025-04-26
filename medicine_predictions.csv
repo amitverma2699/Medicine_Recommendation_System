@@ -1,6 +1,4 @@
 Name,Age,Gender,Symptom,Predicted Medicine,Cause,Disease
-Male,Headache,,,Iron Supplements,Stress,Muscle Overuse
-Male,Headache,,,Iron Supplements,Stress,Muscle Overuse
 Monish,24,Male,Headache,Isolation,Food Poisoning,Indigestion
 Devil,25,Male,Headache,on   Antihistamine,Pollution,Migraine
 Mukesh,26,Male,Fever,Isolation,Food Poisoning,Strep Throat
